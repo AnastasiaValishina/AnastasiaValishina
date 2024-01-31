@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anastasia Valishina</h1>
-<h3 align="center">A Unity Developer</h3>
+<h3 align="center">A Unity C# Developer</h3>
 
 - 🔭 I’m currently working on [Shut The Box](https://github.com/AnastasiaValishina/shut-the-box)
 
-- 🌱 I’m currently learning **SQLite, Docker, WinForms**
+- 🌱 I’m currently learning **SQLite, SQL, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnastasiaValishina](https://github.com/AnastasiaValishina)
 
