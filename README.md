@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cookbook](https://github.com/AnastasiaValishina/cookbook-application)
 
-- 🌱 I’m currently learning **.Net 8, Blazor, Dapper, MS SQL Server, JWT, Postman**
+- 🌱 I’m currently learning **.Net 8, Blazor, Dapper, MS SQL Server, JWT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnastasiaValishina](https://github.com/AnastasiaValishina)
 
