@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anastasia Valishina</h1>
-<h3 align="center">A Unity C# Developer</h3>
+<h3 align="center">Unity C# Developer</h3>
 
 - 🔭 I’m currently working on [Cookbook](https://github.com/AnastasiaValishina/cookbook-application)
 
