@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anastasia Valishina</h1>
 <h3 align="center">Unity C# Developer</h3>
 
-- 🔭 I’m currently working on [Cookbook](https://github.com/AnastasiaValishina/cookbook-application)
+- 🔭 I’m currently working on [Cookbook](https://cookbookclient20240726115726.azurewebsites.net/)
 
 - 🌱 I’m currently learning **.Net 8, Blazor, Dapper, MS SQL Server, JWT**
 
