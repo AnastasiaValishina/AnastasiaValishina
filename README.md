@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **azhidenova@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y4hiS07qVY043e81R6MGQtuR3_O_DYtg/view?usp=sharing](https://drive.google.com/file/d/1Y4hiS07qVY043e81R6MGQtuR3_O_DYtg/view?usp=sharing)
+- 📄 Know about my experiences [CV English](https://drive.google.com/file/d/1CNF9xLJqhCL1xnX09ZET06FC31QSSV_E/view) [CV Russian](https://drive.google.com/file/d/11bBsyKNwwFaJhvjlKoOvSSIs3xAur7XQ/view)
 
 - ⚡ Fun fact **Food makes me happy**
 
