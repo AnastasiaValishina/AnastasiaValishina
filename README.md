@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anastasia Valishina</h1>
 <h3 align="center">Unity C# Developer</h3>
 
-- 🔭 I’m currently working on [Cookbook](https://cookbookclient20240726115726.azurewebsites.net/)
+- 🔭 My current project [Shut The Box](https://store.steampowered.com/app/3273730/Shut_the_Box/) will soon be available on Steam. Check it out! It would really help me if you'd be willing to wishlist it.
 
-- 🌱 I’m currently learning **.Net 8, Blazor, Dapper, MS SQL Server, JWT**
+- 🌱 I’m currently learning **Unity Shaders**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnastasiaValishina](https://github.com/AnastasiaValishina)
 
