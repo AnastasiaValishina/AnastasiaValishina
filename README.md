@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
 <h3 align="center">Unity C# Developer</h3>
 
-- 🔭 My current project [Shut The Box](https://store.steampowered.com/app/3273730/Shut_the_Box/) will soon be available on Steam. Check it out! It would really help me if you'd be willing to wishlist it.
+- 🎲 My current project [Shut The Box](https://store.steampowered.com/app/3273730/Shut_the_Box/) is available on Steam. Check it out!
+
+- 🍔 My <a href="https://github.com/AnastasiaValishina/cookbook-application">Recipe Management app</a> is live and accessible <a href="https://cookbookclient20240726115726.azurewebsites.net/">here</a>.
 
 - 🌱 I’m currently learning **Multiplayer(Netcode for GameObjects, Lobby)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnastasiaValishina](https://github.com/AnastasiaValishina)
+- 👨‍💻 Code for my projects are available at [https://github.com/AnastasiaValishina](https://github.com/AnastasiaValishina)
 
 - 💬 Ask me about **Unity, C#, UI**
 
