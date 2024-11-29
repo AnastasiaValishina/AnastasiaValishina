@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
 <h3 align="center">Unity C# Developer</h3>
 
-🎲 My current project [Shut The Box](https://store.steampowered.com/app/3273730/Shut_the_Box/) is available on Steam. Check it out!
+🎲 My last project [Shut The Box](https://store.steampowered.com/app/3273730/Shut_the_Box/) is available on Steam. Check it out!
 
 🍔 My <a href="https://github.com/AnastasiaValishina/cookbook-application">Recipe Management app</a> is live and accessible <a href="https://cookbookclient20240726115726.azurewebsites.net/">here</a>.
 
@@ -9,9 +9,9 @@
 
 👨‍💻 Code for my projects are available at [https://github.com/AnastasiaValishina](https://github.com/AnastasiaValishina)
 
-💬 Ask me about **Unity, C#, UI**
+💬 Ask me about **Unity, C#, UI, Steam**
 
-📫 How to reach me **azhidenova@gmail.com**
+📫 How to reach me **azhidenova@gmail.com, Telegram: [@Iambutmortal](https://t.me/Iambutmortal)**
 
 📄 Know about my experiences [CV English](https://drive.google.com/file/d/1CNF9xLJqhCL1xnX09ZET06FC31QSSV_E/view) [CV Russian](https://drive.google.com/file/d/11bBsyKNwwFaJhvjlKoOvSSIs3xAur7XQ/view)
 
