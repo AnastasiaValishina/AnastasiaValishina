@@ -13,7 +13,7 @@
 
 📫 How to reach me **azhidenova@gmail.com, Telegram: [@Iambutmortal](https://t.me/Iambutmortal)**
 
-📄 Know about my experiences [CV English](https://drive.google.com/file/d/1hsJX1Sr3kq1dfK3Q9gHr_qY8W0IhiXzI/view) [CV Russian](https://drive.google.com/file/d/11bBsyKNwwFaJhvjlKoOvSSIs3xAur7XQ/view)
+📄 Know about my experiences [CV English](https://drive.google.com/file/d/1hsJX1Sr3kq1dfK3Q9gHr_qY8W0IhiXzI/view) [CV Russian](https://drive.google.com/file/d/1fG3I9Y1GFUSy2VVB4WSyBKISqoPADuyz/view)
 
 ⚡ Fun fact **Food makes me happy**
 
