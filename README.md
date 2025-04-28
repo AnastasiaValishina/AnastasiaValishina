@@ -3,8 +3,6 @@
 
 🎲 My last project [Shut The Box](https://store.steampowered.com/app/3273730/Shut_the_Box/) is available on Steam. Check it out!
 
-🍔 My <a href="https://github.com/AnastasiaValishina/cookbook-application">Recipe Management app</a> is live and accessible <a href="https://cookbookclient20240726115726.azurewebsites.net/">here</a>.
-
 🌱 I’m currently learning **Multiplayer(Netcode for GameObjects, Lobby)**
 
 👨‍💻 Code for my projects are available at [https://github.com/AnastasiaValishina](https://github.com/AnastasiaValishina)
